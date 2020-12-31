@@ -1,0 +1,15 @@
+body {
+  background-color: pink;
+}
+.links{
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+        
+    .links:hover{background-color: dodgerblue;}
+}
